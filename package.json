@@ -1,11 +1,11 @@
 {
-  "name": "xoro",
+  "name": "XorO",
   "version": "1.0.0",
   "description": "This is app called xoro. It is a simple tic-tac-toe game.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Waves Lin",
+  "author": "Juanru Lin",
   "license": "ISC"
 }
