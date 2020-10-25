@@ -1,4 +1,4 @@
-## `XorO (simple tic-tac-toe gaming website)`
+## XorO (simple tic-tac-toe gaming website)
 
 ### `Author: Juanru Lin`
 
